@@ -1,0 +1,10 @@
+{
+  "clientId": "YOUR_DISCORD_APPLICATION_ID",
+  "details": "Active for {duration}",
+  "state": "Building things",
+  "activeSince": "2020-01-01",
+  "showElapsedTime": true,
+  "largeImageKey": "",
+  "largeImageText": "",
+  "buttons": []
+}

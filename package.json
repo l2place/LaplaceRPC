@@ -1,0 +1,19 @@
+{
+  "name": "laplace-rpc",
+  "version": "1.0.0",
+  "description": "Configurable Discord Rich Presence with Windows background and startup launchers.",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node --check config.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "discord-rpc": "4.0.1"
+  }
+}
